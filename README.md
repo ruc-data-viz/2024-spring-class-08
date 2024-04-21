@@ -1,1 +1,7 @@
-# 2024-spring-class-08
+# Class 08: Geographic Data
+
+Today's class will focus on:
+* Geopandas
+* Geopy
+* Geoviews
+* Coordinate transforms
